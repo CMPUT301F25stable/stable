@@ -3,5 +3,6 @@ package com.example.stable;
 public abstract class Shape {
     private int x;
     private int y;
-    private String color = "blue";
+
+    String color = "$BLACK";
 }
