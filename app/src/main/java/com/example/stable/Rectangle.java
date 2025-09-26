@@ -1,4 +1,4 @@
 package com.example.stable;
 
-public class Rectange {
+public class Rectangle {
 }
